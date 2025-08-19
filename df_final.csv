@@ -1,0 +1,11 @@
+,customer_ID,gender_Male,membership_type_Gold,membership_type_Platinum,membership_type_Silver,payment_Crypto,payment_PayPal,region_North,region_South,region_West
+0,101,1,0,0,0,0,0,1,0,0
+1,102,0,1,0,0,0,1,0,1,0
+2,103,0,0,0,1,1,0,0,0,0
+3,104,1,0,1,0,0,0,0,0,1
+4,105,1,1,0,0,1,0,1,0,0
+5,106,0,0,0,0,0,1,0,1,0
+6,107,0,0,0,1,0,0,0,0,0
+7,108,1,1,0,0,1,0,0,0,1
+8,109,1,0,1,0,0,1,1,0,0
+9,110,0,0,0,1,0,0,0,1,0
